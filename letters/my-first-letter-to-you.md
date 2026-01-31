@@ -3,7 +3,7 @@ title: "My First Letter to You"
 date: "January 25, 2025"
 ---
 
-# My Dearest Simran,
+# Meri Simran,
 
 I don't know where to begin, but I know that every word I write here comes straight from my heart.
 
@@ -23,7 +23,7 @@ I've tried to put it into words so many times, but how do you describe something
 
 - Your eyes hold entire galaxies
 - When you're in my arms, I forget that time exists
-- Every moment with you feels like a gift I don't deserve
+- Our Skin-to-Skin sleep is a pure bliss
 
 ---
 
