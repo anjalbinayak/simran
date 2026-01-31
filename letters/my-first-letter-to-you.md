@@ -1,6 +1,6 @@
 ---
 title: "My First Letter to You"
-date: "January 25, 2025"
+date: "January 17, 2025"
 ---
 
 # Meri Simran,
