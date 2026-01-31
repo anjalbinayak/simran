@@ -7,7 +7,7 @@ date: "January 17, 2025"
 
 I don't know where to begin, but I know that every word I write here comes straight from my heart.
 
-## The Day Everything Changed
+## The 4 AM Call
 
 Do you remember that first call at _4 AM_? I was half asleep, and then I heard your voice. You told me to keep my WiFi on when I sleep. Such a small thing, but it meant everything. It meant you wanted to reach me, anytime, anywhere.
 
