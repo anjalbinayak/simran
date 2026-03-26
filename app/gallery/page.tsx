@@ -7,9 +7,9 @@ import { ArrowLeft, Heart, ImageIcon } from "lucide-react";
 // Configure your memories here - add image path, title, and optional music
 const memories = [
   {
-    id: "first-picture",
-    title: "Our First Picture Together",
-    date: "January 17, 2025",
+    id: "kaisi-dil-lagi",
+    title: "meri zindagi hai tu",
+    date: "March 23, 2026",
     image: "/memories/first-picture.jpg",
     music: "/music/romantic-song.mp3", // optional
   },
@@ -52,8 +52,7 @@ export default function GalleryPage() {
               Our Memories
             </h1>
             <p className="text-muted-foreground max-w-md mx-auto">
-              A collection of moments frozen in time. Each picture tells a story
-              of us.
+              Ida husan leke kithe chalein
             </p>
           </div>
         </motion.div>
