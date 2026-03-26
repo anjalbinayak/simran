@@ -12,7 +12,7 @@ const memories: Record<
   string,
   { title: string; date: string; image: string; music?: string }
 > = {
-  "first-picture": {
+  "kaisi-dil-lagi": {
     title: "Meri Jaan",
     date: "March 26, 2026",
     image: "/memories/first-picture.jpg",
