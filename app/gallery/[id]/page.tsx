@@ -14,7 +14,7 @@ const memories: Record<
 > = {
   "kaisi-dil-lagi": {
     title: "Meri Jaan",
-    date: "March 26, 2026",
+    date: "March 23, 2026",
     image: "/memories/first-picture.jpg",
     music: "/music/kaisidillagi.mp3",
   },
