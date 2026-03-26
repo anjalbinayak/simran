@@ -1,8 +1,8 @@
-"use client"
+"use client";
 
-import { motion } from "framer-motion"
-import Link from "next/link"
-import { ArrowLeft, Heart, ImageIcon } from "lucide-react"
+import { motion } from "framer-motion";
+import Link from "next/link";
+import { ArrowLeft, Heart, ImageIcon } from "lucide-react";
 
 // Configure your memories here - add image path, title, and optional music
 const memories = [
@@ -13,20 +13,7 @@ const memories = [
     image: "/memories/first-picture.jpg",
     music: "/music/romantic-song.mp3", // optional
   },
-  {
-    id: "the-day-you-smiled",
-    title: "The Day You Smiled At Me",
-    date: "January 22, 2025",
-    image: "/memories/smile.jpg",
-    music: "/music/our-song.mp3",
-  },
-  {
-    id: "together-forever",
-    title: "Together Forever",
-    date: "January 25, 2025",
-    image: "/memories/together.jpg",
-  },
-]
+];
 
 export default function GalleryPage() {
   return (
@@ -65,7 +52,8 @@ export default function GalleryPage() {
               Our Memories
             </h1>
             <p className="text-muted-foreground max-w-md mx-auto">
-              A collection of moments frozen in time. Each picture tells a story of us.
+              A collection of moments frozen in time. Each picture tells a story
+              of us.
             </p>
           </div>
         </motion.div>
@@ -93,12 +81,24 @@ export default function GalleryPage() {
                         <h2 className="font-serif text-xl text-foreground group-hover:text-primary transition-colors">
                           {memory.title}
                         </h2>
-                        <p className="text-sm text-muted-foreground">{memory.date}</p>
+                        <p className="text-sm text-muted-foreground">
+                          {memory.date}
+                        </p>
                       </div>
                     </div>
                     <div className="text-muted-foreground group-hover:text-primary transition-colors">
-                      <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                      <svg
+                        className="w-5 h-5"
+                        fill="none"
+                        stroke="currentColor"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                          strokeWidth={2}
+                          d="M9 5l7 7-7 7"
+                        />
                       </svg>
                     </div>
                   </div>
@@ -115,11 +115,9 @@ export default function GalleryPage() {
           transition={{ delay: 0.8 }}
           className="mt-12 text-center"
         >
-          <p className="text-sm text-muted-foreground">
-            Add more memories by updating the gallery configuration
-          </p>
+          <p className="text-sm text-muted-foreground">Khoobsurti</p>
         </motion.div>
       </div>
     </main>
-  )
+  );
 }

@@ -334,7 +334,7 @@ export default function MemoryPage() {
           transition={{ delay: 1 }}
           className="mt-8 text-muted-foreground font-serif text-lg italic text-center max-w-md"
         >
-          "Every moment with you is a memory I treasure forever"
+          ❤️‍🔥
         </motion.p>
       </div>
     </main>
